@@ -1,0 +1,6 @@
+{
+  "name": "CVtailor",
+  "description": "Tailor your resume and cover letter for any job description with AI-powered ATS gap analysis, experience bullet rewriting, and instant PDF download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
